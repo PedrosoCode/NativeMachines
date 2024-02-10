@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "machines",
+    "slug": "machines",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "machines"
+}
